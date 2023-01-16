@@ -1,0 +1,1 @@
+ini adalah chapter 2 dari belajar git.
